@@ -1,0 +1,14 @@
+C:\Dio-\LAB003\bin\Debug\net9.0\LAB003.exe
+C:\Dio-\LAB003\bin\Debug\net9.0\LAB003.deps.json
+C:\Dio-\LAB003\bin\Debug\net9.0\LAB003.runtimeconfig.json
+C:\Dio-\LAB003\bin\Debug\net9.0\LAB003.dll
+C:\Dio-\LAB003\bin\Debug\net9.0\LAB003.pdb
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.AssemblyInfoInputs.cache
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.AssemblyInfo.cs
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.csproj.CoreCompileInputs.cache
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.dll
+C:\Dio-\LAB003\obj\Debug\net9.0\refint\LAB003.dll
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.pdb
+C:\Dio-\LAB003\obj\Debug\net9.0\LAB003.genruntimeconfig.cache
+C:\Dio-\LAB003\obj\Debug\net9.0\ref\LAB003.dll
